@@ -23,7 +23,7 @@ e : yeon.inkr@gmail.com / stu : hufs
 
 ## 🚀 Projects
 #전국민 AI 공모 대회
-- 'Scence Search' : 컴퓨터비전 기반으로 기존 갤러리 검색 기능인 텍스트 검색의 한계를 깨고 포즈를 통한 검색, 그림을 통한 검색 등 다양한 검색 기능을 활용하는 주제로 참가 (https://youtube.com/shorts/x7MtskIpwJk?si=OhqBE7RJAWEXF13_)
+- Team 'Scence Search' : 컴퓨터비전 기반으로 기존 갤러리 검색 기능인 텍스트 검색의 한계를 깨고 포즈를 통한 검색, 그림을 통한 검색 등 다양한 검색 기능을 활용하는 주제로 참가 (https://youtube.com/shorts/x7MtskIpwJk?si=OhqBE7RJAWEXF13_)
 - AI 오류찾기 챌린지 참가
 
 ## 📌 대외활동
